@@ -6,66 +6,73 @@
     "email": "jonathan.samosir@gmail.com",
     "phone": "+84 166 854 5211",
     "website": "https://poltak.github.io",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Hanoi",
+      "region": "Vietnam"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "LinkedIn",
+        "username": "jsamosir",
+        "url": "http://www.linkedin.com/in/jsamosir"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "GitHub",
+        "username": "poltak",
+        "url": "http://www.github.com/poltak"
       }
     ]
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "YoungPilots.vn",
+      "position": "Lead Developer",
+      "website": "https://youngpilots.vn/",
+      "startDate": "2015-06-01",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Web development shop based out of Hanoi, Vietnam",
+        "Looking to expand into fully-fledged startup working on our own ideas"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "organization": "Bright Sparqe",
+      "position": "Lead Backend Developer",
+      "website": "https://www.brightsparqe.org/",
+      "startDate": "2015-04-01",
+      "endDate": "2016-01-01",
+      "summary": "A non-for-profit organisation based in Melbourne, Australia, aiming to alleviate the issue of homelessness in Australia.",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "Designed and implemented backend from scratch",
+        "Volunteered in-person with the organisation"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
+      "institution": "Monash University",
+      "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "startDate": "2010-06-01",
+      "endDate": "2014-06-01",
+      "gpa": "3.492",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+        "Systems Development"
+      ]
+    },
+    {
+      "institution": "Monash University",
+      "area": "Computer Science",
+      "studyType": "Honours",
+      "startDate": "2014-07-01",
+      "endDate": "2015-07-01",
+      "gpa": "3.5",
+      "courses": [
+        "Real-time Big Data Processing"
       ]
     }
   ],
